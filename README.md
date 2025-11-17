@@ -48,13 +48,6 @@ Practical implementations to strengthen logic, problem-solving & coding fundamen
 
 Modular, clean and production-ready backend services to sharpen real-world development skills.
 
-📈 Currently Improving
-
-> System design & scalable thinking
-> Secure authentication flows
-> Performance optimization
-> Mobile & backend architecture patterns
-
 🌿 **Developer Mindset**
 
 “Build with clarity. Code with purpose. Improve with consistency.”
