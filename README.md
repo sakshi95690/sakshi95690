@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey, I'm Sakshi Pandey
+A developer who loves turning **ideas into reliable software**.
 
-<!--
-**sakshi95690/sakshi95690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build products with a simple rule:  
+**If it solves a real problem, it’s worth creating.**
 
-Here are some ideas to get you started:
+## 💡 About Me  
+- Full-stack developer in the making  
+- Currently building a **Flutter + Spring Boot** production-grade mobile app  
+- Strong interest in **API design, backend engineering & scalable systems**  
+- Believe in writing **clean, readable, and maintainable code**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Skills I Use Daily  
+- **Languages:** Java, Spring Framework, JavaScript, C++
+- **Backend:** Spring Boot, MySQL  
+- **Frontend/Mobile:** Flutter (GetX)  
+- **Tools:** Git, Postman, VS Code, Android Studio
+
+## 🏗️ Featured Work  
+- Ayodhya Pilgrimage App (Full-stack)  
+- DS & Algo-based utilities  
+- Backend mini-services with Spring Boot  
+
+## 🌱 Learning & Growing  
+Improving system design, authentication, performance optimization & real-world architecture.
+
+## 📬 Let's Connect  
+📧 pandeysakshi7555@gmail.com  
+🔗 https://www.linkedin.com/in/sakshi-pandey95690
+
