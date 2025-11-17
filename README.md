@@ -1,5 +1,7 @@
 🌟 Hey, I'm Sakshi Pandey
+
 **A passionate developer who turns ideas into meaningful, reliable and user-focused software.**
+
 I believe one thing:
 ✨ If it solves a real problem, it deserves to be built with care.
 A developer who loves turning **ideas into reliable software**.
@@ -9,44 +11,55 @@ I build products with a simple rule:
 
 💫 About Me
 
-🔥 Full-stack developer in the making
+🔥 Full-stack developer
+
 📱 Crafting a production-ready Flutter + Spring Boot mobile application
+
 ⚙️ Strong interest in API design, backend engineering & scalable architectures
+
 ✨ Lover of clean, readable and maintainable code
+
 📚 Growing through real projects, experiments & consistent learning
 
 🧰 Tech Stack
 Languages
+
 🟡 Java • 🔵 Dart • 🟠 JavaScript
 
 Backend
+
 ⚙️ Spring Boot • 🛢️ MySQL
 
 Frontend / Mobile
+
 📱 Flutter • ⚡ GetX
 
 Tools
+
 🧰 Git • Postman • VS Code • Android Studio
 
 🚀 Featured Projects
 
-⭐ Ayodhya Pilgrimage App
+⭐ **Ayodhya Pilgrimage App**
+
 A full-stack application built with Flutter + Spring Boot, focusing on real-world performance, clean architecture & seamless user experience.
 
-🧩 DS & Algo Utilities
+🧩 **DS & Algo Utilities**
+
 Practical implementations to strengthen logic, problem-solving & coding fundamentals.
 
-🛠️ Spring Boot Mini-Services
+🛠️ **Spring Boot Mini-Services**
+
 Modular, clean and production-ready backend services to sharpen real-world development skills.
 
 📈 Currently Improving
 
-System design & scalable thinking
-Secure authentication flows
-Performance optimization
-Mobile & backend architecture patterns
+> System design & scalable thinking
+> Secure authentication flows
+> Performance optimization
+> Mobile & backend architecture patterns
 
-🌿 Developer Mindset
+🌿 **Developer Mindset**
 
 “Build with clarity. Code with purpose. Improve with consistency.”
 
