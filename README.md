@@ -2,14 +2,10 @@
 
 **A passionate developer who turns ideas into meaningful, reliable and user-focused software.**
 
-I believe one thing:
-✨ If it solves a real problem, it deserves to be built with care.
-A developer who loves turning **ideas into reliable software**.
-
-I build products with a simple rule:  
+  I build products with a simple rule:  
 **If it solves a real problem, it’s worth creating.**
 
-💫 About Me
+💫## About Me
 
 🔥 Full-stack developer
 
@@ -21,7 +17,7 @@ I build products with a simple rule:
 
 📚 Growing through real projects, experiments & consistent learning
 
-🧰 Tech Stack
+🧰 ##Tech Stack
 Languages
 
 🟡 Java • 🔵 Dart • 🟠 JavaScript
@@ -34,7 +30,7 @@ Frontend / Mobile
 
 📱 Flutter • ⚡ GetX
 
-Tools
+## Tools
 
 🧰 Git • Postman • VS Code • Android Studio
 
